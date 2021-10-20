@@ -1,0 +1,11 @@
+{
+  "Name": "Lewis Groove-ture",
+  "Author": "Nordmole",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "Nordmole.LewisGrooveture",
+  "UpdateKeys": [ "Nexus:" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
