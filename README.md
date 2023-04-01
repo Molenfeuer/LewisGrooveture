@@ -4,7 +4,7 @@ Isn't it strange how quiet Lewis owns a fu**cking gold statue of himself? Let's 
 
 ## Install
 
-1. Download the latest version of this mod from [NexusMods](https://www.nexusmods.com/stardewvalley/mods/15777) or the GitHub [release page](https://github.com/Nordmole/LewisGrooveture/releases)
+1. Download the latest version of this mod from [NexusMods](https://www.nexusmods.com/stardewvalley/mods/16098) or the GitHub [release page](https://github.com/Nordmole/LewisGrooveture/releases)
 2. Extract the ZIP-File and put the folder into the mods folder of SMAPI (mostly located under "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods")
 
 ## Features
