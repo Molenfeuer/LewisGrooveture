@@ -2,10 +2,16 @@
   "Name": "Lewis Groove-ture",
   "Author": "Nordmole",
   "Version": "1.0.0",
-  "Description": "Let Lewis dance",
+  "Description": "Let Solid Gold Lewis dance",
   "UniqueID": "Nordmole.LewisGrooveture",
   "UpdateKeys": [ "Nexus:15777" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
-  }
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "spacechase0.ContentPatcherAnimations",
+      "IsRequired": true
+    }
+  ]
 }
