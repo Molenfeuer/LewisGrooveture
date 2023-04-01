@@ -18,6 +18,7 @@ If something doesn't work, or you miss a feature, feel free to open a new issue 
 ## Credits
 
 - A huuuuge thanks to [Pathoschild](https://www.nexusmods.com/stardewvalley/users/1552317) for developing [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400) and [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915). This modification uses both of these technologies to run!
+- Also thanks to [spacechase0](https://www.nexusmods.com/stardewvalley/users/34250790)﻿ for developing [Content Patcher Animations](https://www.nexusmods.com/stardewvalley/mods/3853)﻿. An easy to use extension for Content Patcher
 
 ## Other
 
