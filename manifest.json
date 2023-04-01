@@ -4,7 +4,7 @@
   "Version": "1.0.0",
   "Description": "Let Solid Gold Lewis dance",
   "UniqueID": "Nordmole.LewisGrooveture",
-  "UpdateKeys": [ "Nexus:15777" ],
+  "UpdateKeys": [ "Nexus:16098" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },
