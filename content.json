@@ -1,0 +1,15 @@
+{
+  "Format": "1.28.0",
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/solid_gold_lewis_dance.png",
+      "LogName": "Solid Gold Lewis Dance Animation",
+      "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 32 },
+      "ToArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 },
+      "AnimationFrameTime": 10,
+      "AnimationFrameCount": 41
+    }
+  ]
+}
