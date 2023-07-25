@@ -7,13 +7,17 @@ Isn't it strange how quiet Lewis owns a fu**cking gold statue of himself? Let's 
 1. Download the latest version of this mod from [NexusMods](https://www.nexusmods.com/stardewvalley/mods/16098) or the GitHub [release page](https://github.com/Nordmole/LewisGrooveture/releases)
 2. Extract the ZIP-File and put the folder into the mods folder of SMAPI (mostly located under "C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods")
 
+## Options & Compatibility
+
+This mod is compatible with [Less Corrupt Lewis - No More Statue](https://www.nexusmods.com/stardewvalley/mods/14269) by [AirynS](https://www.nexusmods.com/stardewvalley/users/70148453). Just install his mod beside this mod, and instead of Lewis, Marnie will dance.
+
 ## Features
 
-- Let Lewis dance
+- Let Lewis dance (or Marnie)
 
 ## Contribute
 
-If something doesn't work, or you miss a feature, feel free to open a new issue on the [GitHub Page of this mod](https://github.com/Nordmole/LewisGrooveture/issues). Please always use the GitHub issue page instead of the issue page of NexusMods or something else
+If something doesn't work, or you miss a feature, feel free to open a new issue on the [GitHub Page of this mod](https://github.com/Nordmole/LewisGrooveture/issues). I prefer the GitHub Page but if you really don't want to use it feel free to use the [Issue Page here on NexusMods](https://www.nexusmods.com/stardewvalley/mods/16098?tab=bugs).
 
 ## Credits
 
@@ -24,4 +28,4 @@ If something doesn't work, or you miss a feature, feel free to open a new issue 
 
 ## Other
 
-This is not related to this mod, but heres a little [YouTube video](https://youtu.be/PcRyjkYdDxM?t=16) I recommend you
+This is not related to this mod, but heres a little [YouTube video](https://youtu.be/PcRyjkYdDxM?t=16) I recommend you.
