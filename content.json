@@ -4,12 +4,25 @@
     {
       "Action": "EditImage",
       "Target": "TileSheets/Craftables",
-      "FromFile": "assets/solid_gold_lewis_dance.png",
+      "FromFile": "assets/dancers.png",
       "LogName": "Solid Gold Lewis Dance Animation",
       "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 32 },
       "ToArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 },
       "AnimationFrameTime": 10,
       "AnimationFrameCount": 41
+    },
+    {
+      "Action": "EditImage",
+      "Target": "TileSheets/Craftables",
+      "FromFile": "assets/dancers.png",
+      "LogName": "Stone Marnie Dance Animation",
+      "FromArea": { "X": 0, "Y": 32, "Width": 16, "Height": 32 },
+      "ToArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 },
+      "AnimationFrameTime": 10,
+      "AnimationFrameCount": 41,
+      "When": {
+        "HasMod": "Airyn.NoLewisStatue"
+      }
     }
   ]
 }
