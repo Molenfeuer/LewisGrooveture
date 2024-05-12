@@ -1,9 +1,9 @@
 {
   "Name": "Lewis Groove-ture",
-  "Author": "Nordmole",
+  "Author": "Molenfeuer",
   "Version": "1.1.0",
   "Description": "Let Solid Gold Lewis dance",
-  "UniqueID": "Nordmole.LewisGrooveture",
+  "UniqueID": "Molenfeuer.LewisGrooveture",
   "UpdateKeys": [ "Nexus:16098" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
